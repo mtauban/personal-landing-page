@@ -61,7 +61,7 @@
 /* Basic */
 
 	body, input, select, textarea {
-		color: #fff;
+		color: #000;
 		/* font-family: 'Source Sans Pro', sans-serif;
         font-family: 'Gentium Book Basic', serif ;  */
         font-family: 'Inconsolata', monospace;
@@ -176,7 +176,7 @@
 /* BG */
 
 	#bg {
-		-moz-animation: bg 90s linear infinite;
+		/* -moz-animation: bg 90s linear infinite;
 		-webkit-animation: bg 90s linear infinite;
 		-ms-animation: bg 90s linear infinite;
 		animation: bg 90s linear infinite;
@@ -187,10 +187,10 @@
 		-moz-transform: translate3d(0,0,0);
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
-		transform: translate3d(0,0,0);
+		transform: translate3d(0,0,0); */
 	/* Set your background with this #2980b9 */
 
-		background: #2F3E4F  url("images/map2.png") bottom left;
+		background: #fff  ; /* url("images/map2.png") bottom left;*/
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -639,7 +639,7 @@
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
 					border-radius: 100%;
-					border: solid 1px #fff;
+					border: solid 1px #000;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;
@@ -676,10 +676,10 @@
 /* Footer */
 
 	#footer {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.1) 75%);
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.1) 75%);
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.1) 75%);
+		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.1) 75%);
 		bottom: 0;
 		cursor: default;
 		height: 6em;
