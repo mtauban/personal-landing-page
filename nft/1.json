@@ -3,7 +3,7 @@
   "symbol": "FOURIER",
   "description": "This collection is the outcome of 5 years of research and is at the convergence between a PhD Thesis in Physics and a personal artistic study on symmetries and kaleidoscopes. Each NFT is the result of a collaboration between the human vision, generative art, algorithmic processes and mathematical transformations. Fourier NFT #001 is an invite to travel.",
   "seller_fee_basis_points": 5,
-  "image": "https://arweave.net/Umi1tOw4hIPn8VkJtq_fjamMgT-YCOGa55g22t6sT6M?ext=jpg",
+  "image": "https://www.mathieutauban.fr/nft/1.png",
   "collection": {
     "name": "Fourier NFT Season 1",
     "family": "Fourier NFT"
@@ -11,14 +11,14 @@
   "properties": {
     "files": [
       {
-        "uri": "https://https://www.mathieutauban.fr/nft/1.png.jpg",
+        "uri": "https://www.mathieutauban.fr/nft/1.png",
         "type": "image/jpg"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "0x1382271E7cA2AA1781e661599CaAEB9b43F62DB6",
+        "address": "43DyXeNtY64udPuHxp4Yuc9aLCg555nyCjGZXGfXqSXu",
         "share": 100
       }
     ]
